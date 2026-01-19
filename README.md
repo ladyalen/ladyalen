@@ -22,67 +22,39 @@ Explore open-source tools and contribute to community projects
   <img src="https://img.shields.io/badge/SVG-FF9900?style=for-the-badge&logo=svg&logoColor=black" alt="SVG" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
-## 🛠️ Tech Stack & Skills
+
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-![Perl](https://img.shields.io/badge/Perl-000?style=for-the-badge\&logo=perl)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge\&logo=postgresql)
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,perl,php,cpp,c" />
+</p>
 
 ### 🎨 Frontend Development
 
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-000?style=for-the-badge)
-![SVG](https://img.shields.io/badge/SVG-000?style=for-the-badge\&logo=svg)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-000?style=for-the-badge)
-![Flexbox](https://img.shields.io/badge/Flexbox-000?style=for-the-badge)
-![CSS Grid](https://img.shields.io/badge/CSS%20Grid-000?style=for-the-badge)
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css,sass,tailwind,bootstrap" />
+</p>
 
 ### ⚙️ Backend Development
 
-![REST API](https://img.shields.io/badge/REST%20API-000?style=for-the-badge)
-![Server Side](https://img.shields.io/badge/Server--Side%20Logic-000?style=for-the-badge)
-![Authentication](https://img.shields.io/badge/Auth-000?style=for-the-badge)
-![Data Processing](https://img.shields.io/badge/Data%20Processing-000?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,fastapi" />
+</p>
 
----
+### 🗄️ Database & Cloud
 
-### 🗄️ Databases & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,aws,docker" />
+</p>
 
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-000?style=for-the-badge)
-![Structured Data](https://img.shields.io/badge/Structured%20Data-000?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-000?style=for-the-badge)
+### 🧰 Tools & Design
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator,linux" />
+</p>
 
-### 🧰 Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge)
-![CLI](https://img.shields.io/badge/CLI-000?style=for-the-badge)
-
----
-
-### 🧠 Software Engineering
-
-![Clean Code](https://img.shields.io/badge/Clean%20Code-000?style=for-the-badge)
-![Debugging](https://img.shields.io/badge/Debugging-000?style=for-the-badge)
-![Testing](https://img.shields.io/badge/Testing-000?style=for-the-badge)
-![Performance](https://img.shields.io/badge/Performance%20Optimization-000?style=for-the-badge)
-
-
----
-
-
----
 
 
 <!--
