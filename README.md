@@ -19,16 +19,6 @@ I am an amateur website writer and hobbyist developer with a passion for organiz
 
 ---
 
-### 🔭 Current Projects
-- **Website Generation:** Refining Perl scripts to automate and streamline HTML creation for my personal site.
-- **Fictional Lineages:** Creating detailed SVG representations of family trees from various fictional verses.
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LadyAleena&show_icons=true&theme=radical" alt="LadyAleena's Github Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyAleena&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
