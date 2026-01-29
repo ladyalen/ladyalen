@@ -15,7 +15,7 @@ Work with both frontend and backend technologies
 
 Explore open-source tools and contribute to community projects
 
-### 🧰 Languages & Tools
+###  Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
