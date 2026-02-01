@@ -1,4 +1,5 @@
-![Profile views](https://komarev.com/ghpvc/?username=ladyalen&color=ff69b4)
+![Profile views](https://komarev.com/ghpvc/?username=ladyalen&color=0e75b6)
+
 Hi there, I'm Lady Alen
 
 💻 Software Developer | Web Developer | Open-Source Enthusiast
