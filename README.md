@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=ladyalen&color=0e75b6)
+
 
 Hi there, I'm Lady Alen
 
